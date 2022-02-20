@@ -1,0 +1,151 @@
+{
+  "houses": [
+    {
+      "id": "rec2bhP7CP3apj22j",
+      "address": "ul. Kuczyński 7455, Apt. 911, 45-412, Chorzele, Lubelskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "rec4K1s6Q1nVJqIr4",
+      "address": "ul. Olejnik 4128, Apt. 322, 57-074, Pruchnik, Zachodniopomorskie, Poland",
+      "floorsNumber": 8,
+      "label": "sold",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recCSfEtBMLliNWGb",
+      "address": "ul. Żukowski 0406, Apt. 247, 94-226, Zbąszyń, Małopolskie, Poland",
+      "floorsNumber": 1,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recEsY4X8q7FaxTuI",
+      "address": "al. Wiącek 03159, Apt. 219, 06-602, Łobez, Mazowieckie, Poland",
+      "floorsNumber": 6,
+      "label": "reserved",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recH4eQuxepC1ULfa",
+      "address": "ul. Siedlecki 535, Suite 601, 90-460, Supraśl, Łódzkie, Poland",
+      "floorsNumber": 7,
+      "label": "reserved",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recIAb565V0UpCYKU",
+      "address": "ul. Witczak 574, Apt. 628, 98-595, Więcbork, Zachodniopomorskie, Poland",
+      "floorsNumber": 6,
+      "label": "sold",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recIZm4VNyumQnRzG",
+      "address": "al. Koper 7919, Apt. 714, 26-696, Szprotawa, Wielkopolskie, Poland",
+      "floorsNumber": 5,
+      "label": "reserved",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recMperwxMmH5PEHc",
+      "address": "ul. Kuczyński 7455, Apt. 911, 45-413, Chorzele, Lubelskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recP70nG4UYuGpQe5",
+      "address": "al. Bieńkowski 651, Apt. 375, 52-741, Konin, Podkarpackie, Poland",
+      "floorsNumber": 7,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recQ9PF3kZRHGq0tO",
+      "address": "ul. Kuczyński 7455, Apt. 911, 45-412, Chorzele, Lubelskie, Poland TEST POST",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recQpM31ngIrfuqlf",
+      "address": "ul. Jaworski 020, Suite 717, 25-025, Sulejówek, Zachodniopomorskie, Poland",
+      "floorsNumber": 8,
+      "label": "sold",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recRCUSCdtvDViHg9",
+      "address": "al. Cygan 543, Apt. 567, 49-033, Bełżyce, Dolnośląskie, Poland",
+      "floorsNumber": 10,
+      "label": "sold",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recUqivvdibYhp14Z",
+      "address": "ul. Kuczyński 7455, Apt. 911, 45-412, Chorzele, Lubelskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recVOA9KOgugEg3xi",
+      "address": "ul. Kuczyński 7455, Apt. 9112, 45-412, Chorzele, Lubelskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recYy1t6kzEzfnoY2",
+      "address": "al. Bednarek 03525, Suite 904, 85-807, Białobrzegi, Podkarpackie, Poland",
+      "floorsNumber": 2,
+      "label": "reserved",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "receyOTHXaGi6yOUI",
+      "address": "ul. Janas 113, Apt. 441, 97-149, Rudnik nad Sanem, Warmińsko-mazurskie, Poland",
+      "floorsNumber": 3,
+      "label": "sold",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recgwYmcbDPXgHXH3",
+      "address": "ul. Kawecki 5362, Apt. 570, 30-172, Choroszcz, Kujawsko-pomorskie, Poland",
+      "floorsNumber": 2,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recnz8XScBj5BLTl9",
+      "address": "ul. Leszczyński 955, Apt. 357, 24-253, Mszczonów, Mazowieckie, Poland",
+      "floorsNumber": 5,
+      "label": "reserved",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recobTsqu0DgRJDfz",
+      "address": "ul. Kuczyński 7455, Apt. 911, 45-412, Chorzele, Lubelskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recpu1AvqWJU9KaNl",
+      "address": "al. Piechota 271, Suite 796, 07-916, Myślenice, Podkarpackie, Poland",
+      "floorsNumber": 4,
+      "label": "reserved",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "id": "recqIMtOg2skHBEhj",
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    }
+  ]
+}
