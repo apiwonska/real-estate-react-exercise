@@ -40,7 +40,7 @@ const AddHousePage = () => {
 
   return (
     <>
-      <PageHeader>Dodaj Nieruchomość</PageHeader>
+      <PageHeader>Dodaj nieruchomość</PageHeader>
       <ContentWrapper>
         <Box sx={{ px: '16px' }}>
           <StatusInfo

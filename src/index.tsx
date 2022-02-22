@@ -5,15 +5,19 @@ import { QueryClientProvider, QueryClient } from 'react-query';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import theme from 'theme';
+import { ThemeProvider } from '@mui/material';
 
 const client = new QueryClient();
 
 ReactDOM.render(
   <React.StrictMode>
     <QueryClientProvider client={client}>
-      <Router>
-        <App />
-      </Router>
+      <ThemeProvider theme={theme}>
+        <Router>
+          <App />
+        </Router>
+      </ThemeProvider>
     </QueryClientProvider>
   </React.StrictMode>,
   document.getElementById('root')

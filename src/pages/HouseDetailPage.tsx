@@ -30,7 +30,7 @@ const HouseDetailPage = () => {
 
   return (
     <>
-      <PageHeader>Opis Nieruchomości</PageHeader>
+      <PageHeader>Opis nieruchomości</PageHeader>
       <ContentWrapper>
         <StatusInfo
           isError={isFetchError}

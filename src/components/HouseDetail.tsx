@@ -7,6 +7,7 @@ import Link from '@mui/material/Link';
 import Button from '@mui/material/Button';
 import CircularProgress from '@mui/material/CircularProgress';
 import CustomAlert from './CustomAlert';
+import { TColorProp, colors } from './HouseItem';
 
 import { IHouse } from '../appInterfaces';
 
@@ -23,8 +24,9 @@ const HouseDetail = ({
   isRemoving,
   isRemoveError,
 }: IHouseDetailProps) => {
+  const labelColor = colors[label] as TColorProp;
   return (
-    <Paper elevation={3} sx={{ my: 3, p: 3 }}>
+    <Paper elevation={0} sx={{ px: 3, py: 1 }}>
       {isRemoveError && <CustomAlert severity="error" />}
       <Box sx={{ my: 2 }} textAlign="right">
         <Link
@@ -38,25 +40,33 @@ const HouseDetail = ({
       </Box>
       <Box sx={{ mb: 3 }}>
         <Box sx={{ mb: 2 }}>
-          <Typography variant="subtitle2">Nr referencyjny:</Typography>
+          <Typography variant="subtitle1" sx={{ fontWeight: 600 }}>
+            Nr referencyjny:
+          </Typography>
           <Typography>{id}</Typography>
         </Box>
         <Box sx={{ mb: 2 }}>
-          <Typography variant="subtitle2">Liczba pięter:</Typography>
+          <Typography variant="subtitle1" sx={{ fontWeight: 600 }}>
+            Liczba pięter:
+          </Typography>
           <Typography>{floorsNumber}</Typography>
         </Box>
 
         <Box sx={{ mb: 2 }}>
-          <Typography variant="subtitle2">Adres:</Typography>
+          <Typography variant="subtitle1" sx={{ fontWeight: 600 }}>
+            Adres:
+          </Typography>
           <Typography>{address}</Typography>
         </Box>
 
         <Box sx={{ mb: 2 }}>
-          <Typography variant="subtitle2">Opis:</Typography>
+          <Typography variant="subtitle1" sx={{ fontWeight: 600 }}>
+            Opis:
+          </Typography>
           <Typography>{description}</Typography>
         </Box>
       </Box>
-      <Chip label={label} size="small" color="primary" />
+      <Chip label={label} size="small" color={labelColor} />
       <Box sx={{ my: 2, display: 'flex', alignItems: 'center' }}>
         <Button onClick={handleDelete} variant="contained" sx={{ ml: 'auto' }}>
           {isRemoving ? <CircularProgress /> : 'Usuń'}
