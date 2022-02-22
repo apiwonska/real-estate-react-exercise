@@ -1,13 +1,6 @@
 {
   "houses": [
     {
-      "id": "rec2bhP7CP3apj22j",
-      "address": "ul. Kuczyński 7455, Apt. 911, 45-412, Chorzele, Lubelskie, Poland",
-      "floorsNumber": 9,
-      "label": "available",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
-    },
-    {
       "id": "rec4K1s6Q1nVJqIr4",
       "address": "ul. Olejnik 4128, Apt. 322, 57-074, Pruchnik, Zachodniopomorskie, Poland",
       "floorsNumber": 8,
@@ -146,6 +139,104 @@
       "floorsNumber": 9,
       "label": "available",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque similique fugit perferendis quod culpa. Alias pariatur ea, unde rerum doloribus magni laudantium, expedita hic, enim voluptate recusandae obcaecati corporis ratione atque. Quod quasi itaque maiores ad tempora animi ipsa asperiores exercitationem ab. Est accusantium eius corrupti doloremque eveniet possimus earum impedit, et natus culpa, amet unde magnam soluta. Neque, modi assumenda temporibus accusantium cum, maiores molestiae molestias excepturi sapiente aut facere animi saepe earum recusandae quod incidunt quibusdam dolorum consequuntur consequatur tempora ipsa. Similique dolores unde eaque magnam quod placeat quisquam sit earum quia?",
+      "id": "bKdp7uX"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque.",
+      "id": "dQRjal3"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque.",
+      "id": "_xkmzWm"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque.",
+      "id": "qHK4qpl"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque.",
+      "id": "pY8RU-t"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque.",
+      "id": "T06r0VD"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque.",
+      "id": "b_PRlSF"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque.",
+      "id": "k-zAQNh"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque.",
+      "id": "f7U7FCT"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque.",
+      "id": "2a6J61e"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque.",
+      "id": "yVe_2hs"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque.",
+      "id": "Jd21Adv"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque.",
+      "id": "5Ixd344"
+    },
+    {
+      "address": "ul. Wojtasik 25893, Suite 442, 72-469, Działdowo, Zachodniopomorskie, Poland",
+      "floorsNumber": 9,
+      "label": "available",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt sint obcaecati quia esse beatae eaque.",
+      "id": "xG3ew4C"
     }
   ]
 }
