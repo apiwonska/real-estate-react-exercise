@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import { useForm, Controller } from 'react-hook-form';
 import Box from '@mui/material/Box';
 import TextField from '@mui/material/TextField';
@@ -11,6 +12,7 @@ import { IAddHouseFormData, TLabel } from 'appInterfaces';
 
 interface IFormProps {
   onSubmit: (data: IAddHouseFormData) => Promise<void>;
+  isMutating?: boolean;
 }
 
 const defaultValues: IAddHouseFormData = {
@@ -20,7 +22,7 @@ const defaultValues: IAddHouseFormData = {
   description: '',
 };
 
-const Form = ({ onSubmit }: IFormProps) => {
+const Form = ({ onSubmit, isMutating = false }: IFormProps) => {
   const {
     handleSubmit,
     formState: { errors, isSubmitSuccessful },
@@ -28,13 +30,14 @@ const Form = ({ onSubmit }: IFormProps) => {
     reset,
   } = useForm({ defaultValues });
 
+  useEffect(() => {
+    if (isSubmitSuccessful) reset();
+  }, [isSubmitSuccessful,reset]);
+
   return (
     <Box
       component="form"
-      onSubmit={handleSubmit(async (data) => {
-        await onSubmit(data);
-        if (isSubmitSuccessful) reset();
-      })}
+      onSubmit={handleSubmit(onSubmit)}
       sx={{ p: 2, minWidth: '300px', display: 'flex', flexDirection: 'column' }}
     >
       <Controller
@@ -47,9 +50,12 @@ const Form = ({ onSubmit }: IFormProps) => {
             label="Adres"
             fullWidth
             autoFocus
-            required
             sx={{ mb: 2 }}
             value={field.value || ''}
+            error={!!errors.address}
+            helperText={
+              errors.address?.type === 'required' && 'To pole jest wymagane'
+            }
           />
         )}
       />
@@ -63,10 +69,13 @@ const Form = ({ onSubmit }: IFormProps) => {
             label="Opis"
             fullWidth
             multiline
-            required
             minRows={3}
             sx={{ mb: 2 }}
             value={field.value || ''}
+            error={!!errors.description}
+            helperText={
+              errors.description?.type === 'required' && 'To pole jest wymagane'
+            }
           />
         )}
       />
@@ -75,15 +84,20 @@ const Form = ({ onSubmit }: IFormProps) => {
           <Controller
             name="floorsNumber"
             control={control}
-            rules={{ required: true }}
+            rules={{ required: true, min: 1 }}
             render={({ field }) => (
               <TextField
                 {...field}
                 label="Liczba pięter"
                 fullWidth
                 type="number"
-                inputProps={{ min: 1, max: 30 }}
+                inputProps={{ min: 1 }}
                 value={field.value || ''}
+                error={!!errors.floorsNumber}
+                helperText={
+                  errors.floorsNumber?.type === 'min' &&
+                  'Liczba pięter musi być większa niż 0'
+                }
               />
             )}
           />
@@ -121,7 +135,7 @@ const Form = ({ onSubmit }: IFormProps) => {
         >
           Resetuj
         </Button>
-        <Button type="submit" variant="contained">
+        <Button type="submit" variant="contained" disabled={isMutating}>
           Dodaj
         </Button>
       </Box>
