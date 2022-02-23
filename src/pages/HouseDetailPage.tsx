@@ -1,12 +1,12 @@
 import { useParams, useNavigate } from 'react-router-dom';
 import { useQuery, useMutation } from 'react-query';
 
-import { fetchHouse, removeHouse } from '../api';
-import { IHouse } from '../appInterfaces';
-import PageHeader from '../components/PageHeader';
-import ContentWrapper from '../components/ContentWrapper';
-import HouseDetail from '../components/HouseDetail';
-import StatusInfo from 'components/StatusInfo';
+import { fetchHouse, removeHouse } from 'api';
+import { IHouse } from 'appInterfaces';
+import PageHeader from 'shared/PageHeader';
+import ContentWrapper from 'shared/ContentWrapper';
+import HouseDetail from 'components/HouseDetail';
+import StatusInfo from 'shared/StatusInfo';
 
 const HouseDetailPage = () => {
   const navigate = useNavigate();

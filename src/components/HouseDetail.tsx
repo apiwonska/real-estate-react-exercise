@@ -6,7 +6,7 @@ import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
 import Button from '@mui/material/Button';
 import CircularProgress from '@mui/material/CircularProgress';
-import CustomAlert from './CustomAlert';
+import CustomAlert from 'shared/CustomAlert';
 import { TColorProp, colors } from './HouseItem';
 
 import { IHouse } from '../appInterfaces';

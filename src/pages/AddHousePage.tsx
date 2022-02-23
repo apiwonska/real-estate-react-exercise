@@ -2,10 +2,10 @@ import { useMutation, useQueryClient } from 'react-query';
 import Box from '@mui/material/Box';
 import { addHouse } from 'api';
 import { IAddHouseFormData, IHouse } from 'appInterfaces';
-import PageHeader from 'components/PageHeader';
+import PageHeader from 'shared/PageHeader';
 import Form from 'components/Form';
-import ContentWrapper from 'components/ContentWrapper';
-import StatusInfo from 'components/StatusInfo';
+import ContentWrapper from 'shared/ContentWrapper';
+import StatusInfo from 'shared/StatusInfo';
 import { useEffect, useState } from 'react';
 
 const AddHousePage = () => {

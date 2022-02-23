@@ -1,5 +1,5 @@
-import CustomAlert from 'components/CustomAlert';
-import Loader from 'components/Loader';
+import CustomAlert from 'shared/CustomAlert';
+import Loader from 'shared/Loader';
 
 export interface IProps {
   isError: boolean;
